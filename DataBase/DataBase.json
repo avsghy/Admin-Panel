@@ -1,0 +1,252 @@
+{
+  "courses": [
+    {
+      "id": "6a94f433307ac43bfd1d3c21",
+      "title": "آموزش پایتون مقدماتی تا پیشرفته",
+      "registersCount": 1200,
+      "price": 4500000,
+      "category": "programming"
+    },
+    {
+      "id": "7b82e544418bd54cge2e4d32",
+      "title": "جاوا اسکریپت پیشرفته",
+      "price": 3800000,
+      "category": "frontend",
+      "registersCount": 850,
+      "discount": 0,
+      "desc": "مفاهیم پیشرفته جاوا اسکریپت شامل کلوسر، پروتوتایپ، async/await و طراحی الگو"
+    },
+    {
+      "id": "8c93f655529ce65dhf3f5e43",
+      "title": "طراحی وب با React",
+      "price": 5200000,
+      "category": "frontend",
+      "registersCount": 650,
+      "discount": 0,
+      "desc": "آموزش کامل React.js با هوک‌ها، ریداکس، روتینگ و پروژه عملی فروشگاهی"
+    },
+    {
+      "id": "9da4g76663adf76eig4g6f54",
+      "title": "دوره جامع UI/UX طراحی",
+      "price": 2800000,
+      "category": "design",
+      "registersCount": 430,
+      "discount": 0,
+      "desc": "اصول طراحی رابط کاربری و تجربه کاربری با Figma و Adobe XD"
+    },
+    {
+      "id": "0eb5h87774beg87fh5h7g65",
+      "title": "برنامه‌نویسی بک‌اند با Node.js",
+      "registersCount": 720,
+      "price": 4900000,
+      "category": "backend",
+      "discount": 0
+    },
+    {
+      "id": "1fc6i98885cfh98gi6i8h76",
+      "title": "دوره ماشین لرن با Python",
+      "price": 6200000,
+      "category": "data-science",
+      "registersCount": 310,
+      "discount": 0,
+      "desc": "مفاهیم یادگیری ماشین، رگرسیون، طبقه‌بندی، شبکه‌های عصبی و TensorFlow"
+    },
+    {
+      "id": "2gd7j09996dgi09hj7j9i87",
+      "title": "آموزش HTML و CSS پروژه محور",
+      "price": 1500000,
+      "category": "frontend",
+      "registersCount": 2100,
+      "discount": 0,
+      "desc": "طراحی سایت‌های مدرن با HTML5، CSS3، Flexbox، Grid و پروژه‌های عملی"
+    },
+    {
+      "id": "3he8k1aab7ehj1aik8k0j98",
+      "title": "دوره جامع PHP و Laravel",
+      "price": 5500000,
+      "category": "backend",
+      "registersCount": 480,
+      "discount": 0,
+      "desc": "آموزش کامل PHP و فریمورک Laravel با پروژه فروشگاهی و مدیریت کاربران"
+    },
+    {
+      "id": "4if9l2bbc8fik2bjl9l1k09",
+      "title": "دیتابیس و SQL پیشرفته",
+      "price": 3200000,
+      "category": "database",
+      "registersCount": 560,
+      "discount": 0,
+      "desc": "آموزش پیشرفته MySQL، PostgreSQL، MongoDB و بهینه‌سازی کوئری‌ها"
+    },
+    {
+      "id": "5jg0m3ccd9gjl3ckm0m2l10",
+      "title": "دوره امنیت وب و کالی لینوکس",
+      "price": 6800000,
+      "category": "security",
+      "registersCount": 280,
+      "discount": 0,
+      "desc": "آموزش تست نفوذ، امنیت وب، ابزارهای کالی لینوکس و دفاع سایبری"
+    },
+    {
+      "id": "6kh1n4dde0hkm4dln1n3m21",
+      "title": "طراحی اپلیکیشن موبایل با Flutter",
+      "price": 5900000,
+      "category": "mobile",
+      "registersCount": 390,
+      "discount": 0,
+      "desc": "ساخت اپلیکیشن‌های اندروید و iOS با Flutter و Dart"
+    },
+    {
+      "id": "7li2o5eef1iln5emo2o4n32",
+      "title": "دوره DevOps و Docker",
+      "price": 4600000,
+      "category": "devops",
+      "registersCount": 210,
+      "discount": 0,
+      "desc": "آموزش Docker، Kubernetes، CI/CD و استقرار خودکار با Jenkins"
+    },
+    {
+      "id": "8mj3p6ffg2jmo6fnp3p5o43",
+      "title": "الگوریتم و ساختمان داده پیشرفته",
+      "price": 4100000,
+      "category": "programming",
+      "registersCount": 340,
+      "discount": 0,
+      "desc": "مفاهیم پیشرفته الگوریتم، درخت‌ها، گراف‌ها و بهینه‌سازی کد"
+    },
+    {
+      "id": "9nk4q7ggh3knp7goq4q6p54",
+      "title": "آموزش هوش مصنوعی با Python",
+      "price": 7500000,
+      "category": "data-science",
+      "registersCount": 190,
+      "discount": 0,
+      "desc": "مفاهیم هوش مصنوعی، یادگیری عمیق، پردازش زبان طبیعی و بینایی کامپیوتر"
+    },
+    {
+      "id": "0ol5r8hhi4loq8hpr5r7q65",
+      "title": "ساخت وب‌سایت فروشگاهی با وردپرس",
+      "price": 2200000,
+      "category": "cms",
+      "registersCount": 980,
+      "discount": 0,
+      "desc": "راه‌اندازی فروشگاه اینترنتی با وردپرس، ووکامرس و بهینه‌سازی سئو"
+    },
+    {
+      "id": "1pm6s9iij5mpr9iqs6s8r76",
+      "title": "دوره گرافیک و تصویرسازی دیجیتال",
+      "price": 2600000,
+      "category": "design",
+      "registersCount": 510,
+      "discount": 0,
+      "desc": "آموزش فتوشاپ، ایلوستریتور، طراحی بنر و تصویرسازی دیجیتال"
+    },
+    {
+      "id": "2qn7t0jjk6nqs0jrt7t9s87",
+      "title": "برنامه‌نویسی بازی با Unity",
+      "price": 5800000,
+      "category": "game-dev",
+      "registersCount": 250,
+      "discount": 0,
+      "desc": "ساخت بازی‌های دو بعدی و سه بعدی با Unity و C#"
+    },
+    {
+      "id": "3ro8u1kkl7ort1ksu8u0t98",
+      "title": "دوره تحلیل داده با R",
+      "price": 4400000,
+      "category": "data-science",
+      "registersCount": 160,
+      "discount": 0,
+      "desc": "تحلیل داده، مصورسازی و مدل‌سازی آماری با R و RStudio"
+    },
+    {
+      "id": "4sp9v2llm8psu2ltv9v1u09",
+      "title": "امنیت شبکه و سیسکو CCNA",
+      "price": 5300000,
+      "category": "security",
+      "registersCount": 230,
+      "discount": 0,
+      "desc": "آموزش امنیت شبکه، سیسکو CCNA، فایروال و VPN"
+    },
+    {
+      "id": "5tq0w3mmn9qtv3muw0w2v10",
+      "title": "دوره اسکرام و مدیریت پروژه چابک",
+      "price": 2500000,
+      "category": "management",
+      "registersCount": 420,
+      "discount": 0,
+      "desc": "آموزش متدولوژی چابک، اسکرام، Jira و مدیریت تیم‌های نرم‌افزاری"
+    },
+    {
+      "id": "6ur1x4nno0ruw4nvx1x3w21",
+      "title": "ساخت ربات تلگرام با Python",
+      "price": 3100000,
+      "category": "programming",
+      "registersCount": 670,
+      "discount": 0,
+      "desc": "ساخت ربات‌های تلگرام با Python، پردازش پیام و دیتابیس"
+    },
+    {
+      "id": "7vs2y5oop1svx5owy2y4x32",
+      "title": "آموزش ویدئو ادیت و تدوین",
+      "price": 2900000,
+      "category": "design",
+      "registersCount": 380,
+      "discount": 0,
+      "desc": "تدوین ویدئو با Premiere Pro، افکت‌ها و رنگ‌شناسی"
+    },
+    {
+      "id": "8wt3z6ppq2twy6pxz3z5y43",
+      "title": "برنامه‌نویسی GoLang",
+      "price": 4700000,
+      "category": "programming",
+      "registersCount": 140,
+      "discount": 0,
+      "desc": "آموزش زبان Go، هم‌روندی، وب‌سرویس و میکروسرویس"
+    },
+    {
+      "id": "9xu4a7qqr3uxz7qya4a6z54",
+      "title": "دوره طراحی تجربه کاربری پیشرفته",
+      "price": 3600000,
+      "category": "design",
+      "registersCount": 270,
+      "discount": 0,
+      "desc": "آموزش پیشرفته UX، تحقیقات کاربری، وایرفریم و تست قابلیت‌استفاده"
+    },
+    {
+      "id": "0yv5b8rrs4vya8rzb5b7a65",
+      "title": "ساخت اپلیکیشن دسکتاپ با Electron",
+      "price": 4300000,
+      "category": "programming",
+      "registersCount": 180,
+      "discount": 0,
+      "desc": "ساخت اپلیکیشن‌های دسکتاپ با HTML، CSS، JS و Electron"
+    }
+  ],
+  "users": [
+    {
+      "id": "1zw6c9sst5wzb9sac6c8b76",
+      "name": "ادمین سیستم",
+      "userName": "Admin-1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "aa520b9ea46370919f62565d",
+      "name": "Test1",
+      "userName": "Test1",
+      "email": "Test@gmail.com",
+      "password": "Testing",
+      "role": "user"
+    },
+    {
+      "id": "8526112d42098e9def8b4d18",
+      "name": "Test2",
+      "userName": "Test2",
+      "email": "test@gmail.com",
+      "password": "Testing",
+      "role": "user"
+    }
+  ]
+}
